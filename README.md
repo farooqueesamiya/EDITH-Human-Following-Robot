@@ -8,7 +8,7 @@ This project, EDITH - The Follow Me Robot, was developed as a part of a learning
 
 We would like to express our gratitude to DIY Builder for providing valuable insights, instructions, and inspiration for this project. Without their contribution, this project wouldn't have been possible.
 
-This project is a testament to the power of knowledge sharing and collaboration within the engineering and maker community.
+I would like to extend my heartfelt gratitude to the Integral University Robotics Lab for their invaluable support throughout the development of this project. Their generous provision of funds, tools, and a conducive environment for research and innovation has been instrumental in bringing this project to fruition. I am also deeply appreciative of their guidance and expertise, which have played a pivotal role in the successful design and implementation of the follow me robot. This project would not have been possible without their unwavering support and mentorship.
 
 ## Introduction
 EDITH - The Follow Me Robot is a robotic project designed to assist users in carrying objects autonomously. This project utilizes an Arduino Uno and Ultrasonic sensor for navigation and object detection. The combination of these technologies allows the robot to follow a user while avoiding obstacles.
